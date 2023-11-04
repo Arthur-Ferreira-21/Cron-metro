@@ -1,0 +1,1 @@
+Este projeto de nível iniciante tem como objetivo de ensinar o passo a passo a criação deste crnômetro.Leia atentamente todas as instruções das pasta HTML,CSS JS para conseguir executar todo o passo a passo.
